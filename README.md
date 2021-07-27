@@ -133,7 +133,7 @@
 *Fill out this information when applicable:*
 * __Custom Features__
   * __Using__: 
-   *  ___Rivet-cart.js for Minicart___
+    Rivet-cart.js for Minicart
   * __Integrations__:
   * __Data__: 
   * __Tags__: 
