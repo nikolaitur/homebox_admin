@@ -134,7 +134,7 @@
 *Fill out this information when applicable:*
 * __Custom Features__
   * __Using__: 
-   ⋅⋅⋅Rivet-cart.js for minicart
+   ⋅⋅⋅Rivet-cart.js for minicart.⋅⋅
    ⋅⋅⋅Shopify AI logic for Recommended products    
   * __Integrations__:
    ⋅⋅⋅Yotpo for reviews
