@@ -137,7 +137,9 @@
     ⋅⋅⋅Rivet-cart.js for minicart.⋅⋅
    ⋅⋅⋅Shopify AI logic for Recommended products    
   * __Integrations__:
+  
    ⋅⋅⋅Yotpo for reviews
+  
    ⋅⋅⋅Recharge for subscription
   * __Data__: 
   * __Tags__: 
