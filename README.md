@@ -126,7 +126,7 @@
     >  `src/snippets/responsive-img.liquid`
   * __Data__: 
   * __Tags__: 
-    Tag based collection filter
+    ...Tag based collection filter
   * __Metafields__: 
   * __Additional relevant info__: 
 
@@ -134,16 +134,16 @@
 *Fill out this information when applicable:*
 * __Custom Features__
   * __Using__: 
-   >  Rivet-cart.js for minicart
-   > Shopify AI logic for Recommended products    
+   ...Rivet-cart.js for minicart
+   ...Shopify AI logic for Recommended products    
   * __Integrations__:
-   > Yotpo for reviews
-   > Recharge for subscription
+   ...Yotpo for reviews
+   ...Recharge for subscription
   * __Data__: 
   * __Tags__: 
-   > Used to show product badges like `NEW`
+   ...Used to show product badges like `NEW`
   * __Metafields__: 
-   > Used for Product Information Tabs
+   ...Used for Product Information Tabs
   * __Additional relevant info__: 
 ### Third Party
 * If not mentioned above, what additional third party solutions were integrated to the site, for what feature/template and any brief relevant note*
